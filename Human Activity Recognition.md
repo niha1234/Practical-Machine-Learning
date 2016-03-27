@@ -158,7 +158,7 @@ fitRf$finalModel
 ## E    0    0    0    0 2165 0.0000000000
 ```
 
-As seen by the result of the confusionmatrix, the model is good and efficient because it has an accuracy of 0.997 and very good sensitivity & specificity values on the validation dataset. (the lowest value is 0.992 for the sensitivity of the class C and class D) 
+As seen by the result of the confusionmatrix, the model is good and efficient because it has an accuracy of 0.997 and very good sensitivity & specificity values on the validation dataset. (the lowest value is 0.993 for the sensitivity of the class D) 
 
 
 
